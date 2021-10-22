@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/PokeSearch/static/js/main.e32b9d66.chunk.js",
+    "main.js.map": "/PokeSearch/static/js/main.e32b9d66.chunk.js.map",
+    "runtime-main.js": "/PokeSearch/static/js/runtime-main.691edb2b.js",
+    "runtime-main.js.map": "/PokeSearch/static/js/runtime-main.691edb2b.js.map",
+    "static/js/2.ee1a4ade.chunk.js": "/PokeSearch/static/js/2.ee1a4ade.chunk.js",
+    "static/js/2.ee1a4ade.chunk.js.map": "/PokeSearch/static/js/2.ee1a4ade.chunk.js.map",
+    "index.html": "/PokeSearch/index.html",
+    "static/js/2.ee1a4ade.chunk.js.LICENSE.txt": "/PokeSearch/static/js/2.ee1a4ade.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.691edb2b.js",
+    "static/js/2.ee1a4ade.chunk.js",
+    "static/js/main.e32b9d66.chunk.js"
+  ]
+}
